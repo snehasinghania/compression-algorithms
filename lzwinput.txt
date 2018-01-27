@@ -1,0 +1,38 @@
+Objective: To explicate 
+
+Obligatory:
+
+Voting system: [one vote per person per pole]
+the person who puts up the post/poll has the control over the specifications...
+
+The post must be filtered by the community members... There must be a mechanism for filtering.
+
+
+Permitted:
+Community members are parts of their profile public (gets added to the knowledge base), if they wish to do so. 
+Flexibility in voting.
+
+
+
+Forbidden:
+
+A person cannot vote more than once per poll.
+
+Community members other than the admin and the person who started the post are not allowed to alter/delete the post.
+
+Log in Community and non-community member... different views... switching views.
+Credentials should be approved by super admin.
+
+In the main page, we plan to have a sign up/login, timeline, trending, running polls the person is allowed to vote on.
+
+Also, we display various aspects of the community.
+
+Forum Posts Follow, comment, Inappropriate.
+
+Polling  Ongoing polls on main page. Minimum number must be met. Otherwise, the polls are invalidated. If the person who started the poll can resend it if we wishes to.
+
+Decision centre time bound forum posts, poll results will be shown,
+
+Trending Posts that garner the most number of views, comments, upvotes will be shown in descending order of prioity. 
+
+Timeline activity in his post, followed a post,  posts of person that he followed, posts that he commented on, results/interim results of polls that he has voted on,  things related to his post...
